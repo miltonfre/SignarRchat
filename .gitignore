@@ -1,0 +1,7 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/Chatty/Chatty.Api/bin/Debug/net7.0
+/Chatty/Chatty.Api/obj
+/Chatty/.vs/Chatty
